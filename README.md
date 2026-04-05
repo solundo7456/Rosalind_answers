@@ -1,5 +1,3 @@
-# Rosalind_answers
-
 # Rosalind Bioinformatics Projects
 
 This repository contains solutions to **Rosalind bioinformatics challenges**, covering DNA, RNA, protein, and genetics problems.
